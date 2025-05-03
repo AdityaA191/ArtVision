@@ -1,0 +1,3 @@
+!pip install gradio
+from artvision.demo import ArtVisionDemo
+demo = ArtVisionDemo()
