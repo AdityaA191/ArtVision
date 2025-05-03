@@ -1,0 +1,4 @@
+# After running this cell, you will be prompted to upload style images. Please access these images from the "images" folder of the ArtVision repository and upload them after running this cell.
+
+from google.colab import files
+uploaded = files.upload()
