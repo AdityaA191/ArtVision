@@ -8,10 +8,11 @@ However, you can replicate this project by connecting to the T4 GPU on Google Co
 
 ## 🚀 How to Run
 
-This Space is deployed using:
+This Project is deployed using:
 - [Colab](https://colab.research.google.com/)
 
 After running all the cells, a Gradio link will be generated where Text to Image conversion can be implemented.
 
 ## 📂 Files
 - `Cells` - Folder containing code to be input subsequently in each Colab Cell.
+- - `Images` - Folder containing Style Images.
