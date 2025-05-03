@@ -1,3 +1,0 @@
-!pip install transformers diffusers torch torchvision torchaudio
-!pip install flask flask-ngrok pyngrok nltk scikit-learn matplotlib pillow
-!pip install ipywidgets
