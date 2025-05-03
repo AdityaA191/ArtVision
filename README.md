@@ -15,4 +15,4 @@ After running all the cells, a Gradio link will be generated where Text to Image
 
 ## 📂 Files
 - `Cells` - Folder containing code to be input subsequently in each Colab Cell.
-- - `Images` - Folder containing Style Images.
+- `Images` - Folder containing Style Images.
