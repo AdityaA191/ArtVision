@@ -1,21 +1,17 @@
-# ArtVision 🎨👁️
+# ArtVision 🎨
 
-A Gradio-based app that performs image-based tasks (e.g., recognition, enhancement, or classification).
-This project was originally built in Google Colab and converted to a deployable Python app.
+A Gradio-based app that converts text to image with a chosen style while classifying the emotions displayed in the text prompt.
+This project was originally built in Google Colab due to missing hardware infrastructure pertinent to this project.
+We tried our best to host it but to no avail.
+
+However, you can replicate this project by connecting to the T4 GPU on Google Colab and input code mentioned under "Cells" folder according to their ordinal number subsequently in each Google Colab Cell.
 
 ## 🚀 How to Run
 
 This Space is deployed using:
-- [Gradio](https://gradio.app)
-- [Hugging Face Spaces](https://huggingface.co/spaces)
+- [Colab](https://colab.research.google.com/)
 
-To run locally:
-
-```bash
-pip install -r requirements.txt
-python app.py
-```
+After running all the cells, a Gradio link will be generated where Text to Image conversion can be implemented.
 
 ## 📂 Files
-- `app.py` - The main application
-- `requirements.txt` - Python dependencies
+- `Cells` - Folder containing code to be input subsequently in each Colab Cell.
