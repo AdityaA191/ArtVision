@@ -1,8 +1,8 @@
 # ArtVision 🎨
 
-A Gradio-based app that converts text to image with a chosen style while classifying the emotions displayed in the text prompt.
+A web application that converts text to image with a chosen style while classifying the emotions displayed in the text prompt.
 This project was originally built in Google Colab due to missing hardware infrastructure pertinent to this project.
-We tried our best to host it but to no avail.
+We tried our best to host it forever but to no avail.
 
 However, you can replicate this project by connecting to the T4 GPU on Google Colab and input code mentioned under "Cells" folder according to their ordinal number subsequently in each Google Colab Cell.
 
