@@ -25,5 +25,5 @@ After running all the cells on Colab, a Gradio link will be generated where Text
 ## 🛝 Presentation Slide Deck
 - TBA
 
-## 📽️ Demo Notebook
+## 📽️ YouTube Video
 - TBA
