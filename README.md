@@ -22,11 +22,11 @@ After running all the cells on Colab, a Gradio link will be generated where Text
 ## 💻 Demo Notebook
 - [ArtVision: Emotion-Driven Text-to-Image Generation](https://colab.research.google.com/drive/1NcRID-OOglDyYwvXvLFbVy1zdZewm7JU?usp=sharing)
 
-## 🛝 Presentation Slide Deck
-- TBA
-
 ## 📽️ YouTube Video
 - TBA
 
 ## 📖 Project Report
+- TBA
+
+## 🛝 Presentation Slide Deck
 - TBA
