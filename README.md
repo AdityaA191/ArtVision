@@ -1,4 +1,4 @@
-# ArtVision 🎨🖌️🖼️
+# [ArtVision](https://github.com/AdityaA191/ArtVision/) 🎨🖌️🖼️
 
 A web application hosted on Gradio that converts text to image with a chosen style while classifying the emotions displayed in the text prompt.
 This project was originally built in Google Colab due to missing hardware infrastructure pertinent to this project.
@@ -26,4 +26,7 @@ After running all the cells on Colab, a Gradio link will be generated where Text
 - TBA
 
 ## 📽️ YouTube Video
+- TBA
+
+## 📖 Project Report
 - TBA
