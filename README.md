@@ -29,4 +29,4 @@ After running all the cells on Colab, a Gradio link will be generated where Text
 - TBA
 
 ## 🛝 Presentation Slide Deck
-- TBA
+- [ArtVision Slides](https://docs.google.com/presentation/d/1VU-LS7Q8wdoHZy0PoO0o1pnyuvZFJVfdQsoLq2cjt5g/edit?usp=sharing)
