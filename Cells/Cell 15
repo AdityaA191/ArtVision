@@ -2,9 +2,10 @@ import gradio as gr
 
 # Define the function to generate the image
 def generate_image(prompt, style, seed):
-    return demo.generate_image(prompt, style, seed)
+    image_path, debug_output = demo.generate_image(prompt, style, seed)
+    return image_path, debug_output
 
-# Gradio interface
+# Create the Gradio interface
 interface = gr.Interface(
     fn=generate_image,
     inputs=[
@@ -25,10 +26,13 @@ interface = gr.Interface(
             label='Seed (Optional)'
         )
     ],
-    outputs=gr.Image(),
+    outputs=[
+        gr.Image(label="Generated Image"),
+        gr.Textbox(label="Emotion & Run Logs", lines=10)
+    ],
     title="ArtVision: Emotion-Driven Text-to-Image Generation",
     description="Enter a text prompt, select a style and click submit to generate image..."
 )
 
-# Launch the interface
+# Launch the app
 interface.launch()
