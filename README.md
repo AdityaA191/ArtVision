@@ -23,10 +23,10 @@ After running all the cells on Colab, a Gradio link will be generated where Text
 - [ArtVision: Emotion-Driven Text-to-Image Generation](https://colab.research.google.com/drive/1NcRID-OOglDyYwvXvLFbVy1zdZewm7JU?usp=sharing)
 
 ## 📽️ YouTube Video
-- TBA
+- [ArtVision Video](https://youtu.be/yjc3ZYl40jI)
 
 ## 📖 Project Report
-- TBA
+- [ArtVision Project Report](TBA)
 
 ## 🛝 Presentation Slide Deck
 - [ArtVision Slides](https://docs.google.com/presentation/d/1VU-LS7Q8wdoHZy0PoO0o1pnyuvZFJVfdQsoLq2cjt5g/edit?usp=sharing)
