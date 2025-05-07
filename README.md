@@ -26,7 +26,7 @@ After running all the cells on Colab, a Gradio link will be generated where Text
 - [ArtVision Video](https://youtu.be/xXGWym-WO6o)
 
 ## 📖 Project Report
-- [ArtVision Project Report](https://drive.google.com/file/d/1DOmKIofz4fhQhMtw_pBRDNEHqPfj_qbr/view?usp=sharing)
+- [ArtVision Project Report](https://drive.google.com/file/d/1DOmKIofz4fhQhMtw_pBRDNEHqPfj_qbr/view)
 
 ## 🛝 Presentation Slide Deck
 - [ArtVision Slides](https://docs.google.com/presentation/d/1VU-LS7Q8wdoHZy0PoO0o1pnyuvZFJVfdQsoLq2cjt5g/edit?usp=sharing)
